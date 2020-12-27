@@ -1,0 +1,9 @@
+
+This program creates a list adt that takes in a list of words and then alphabetizes them
+
+List.c : creates a double linked list ADT
+List.h: the outline for the list
+Listclient: tests the list adt
+makefile: makes the file to compile it
+README: this file
+
